@@ -1,0 +1,1 @@
+webpackJsonp([0],{2:function(o,c,e){"use strict";var n=e(0),s=n.age;console.log(s)}},[2]);
